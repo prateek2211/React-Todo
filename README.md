@@ -1,3 +1,11 @@
+
+## Todo App
+
+
+This app was made by following an online video purposely to learn react js.
+
+All the credit goes to bradtraversy .
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
